@@ -1,0 +1,22 @@
+.task-status{
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+.field {
+    min-width: 120px;
+    display: inline-block;
+}
+.section-box{
+    padding: 15px;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    background-color: rgb(250, 251, 252);
+}
+.accordion-button:focus {
+    border-color: none;
+    box-shadow: none;
+}
+.field-value{
+    float: right;
+}
+.status .badge{font-size: 0.9em;}
